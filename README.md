@@ -1,4 +1,4 @@
-# TinyTroupe 🤠🤓🥸🧐
+ # TinyTroupe 🤠🤓🥸🧐
 *LLM-powered multiagent persona simulation for imagination enhancement and business insights.*
 
 <p align="center">
